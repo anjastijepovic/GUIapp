@@ -73,7 +73,7 @@ app=tk.Tk()
 
 app.title("Estate & Winery San Duyevo reservations")
 app.geometry("800x596")
-#app.configure(background="#556B2F")
+
 
 #background design
 background_image = tk.PhotoImage(file='landscape.png')
@@ -169,6 +169,4 @@ clear_btn.grid(row=5, column=3)
 
 populate_list()
 
-#start program, set an infinite loop so window stays in view
 app.mainloop()
-#window2.mainloop()
