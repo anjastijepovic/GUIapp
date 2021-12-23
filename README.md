@@ -1,1 +1,1 @@
-# Shallow Neural Networks
+# GUI app
