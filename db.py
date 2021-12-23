@@ -41,5 +41,3 @@ db.insert("Fabian Eva", "Slovakia", 2,"fabian@gmail.com" , 2, "31.07.2022.", "05
 db.insert("Krisztina Lakatos", "Slovakia", 3, "krisztina@gmail.com" , 2, "31.07.2022.", "05.08.2022." , 190)
 db.insert("Alfred Maisone", "Germany", 2,"maisone@gmail.com" , 2, "18.09.2022.", "21.09.2022." , 96)
 '''
-
-#SQL Lite database #35 min
